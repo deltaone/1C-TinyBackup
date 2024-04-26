@@ -38,3 +38,5 @@ folder=d:\ut
 filter=1Cv8.1CD
 depth=3
 ```
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=deltaone-1C-TinyBackup&label=Repository%20views&color=ce9927&style=flat" /> </p>
